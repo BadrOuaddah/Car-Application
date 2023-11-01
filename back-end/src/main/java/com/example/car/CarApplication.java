@@ -14,7 +14,6 @@ public class CarApplication {
 
 		CarService carService = new CarService(carDao,emailService,motService);
 
-
 		SpringApplication.run(CarApplication.class, args);
 	}
 
