@@ -5,9 +5,9 @@ public class CarService {
     private EmailService emailService;
     private MOTService motService;
 
-    public CarService(CarDao carDao, EmailService emailService, MOTService motService){
-        this.carDao = new CarDao();
-        this.emailService = new EmailService();
-        this.motService = new MOTService();
+    public CarService(){
+//        EmailService emailService, MOTService motService
+//        this.emailService = new EmailService();
+//        this.motService = new MOTService();
     }
 }
