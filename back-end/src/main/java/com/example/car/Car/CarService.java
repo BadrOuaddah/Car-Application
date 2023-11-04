@@ -1,7 +1,6 @@
 package com.example.car.Car;
 
 public class CarService {
-
     private CarDao carDao;
     private EmailService emailService;
     private MOTService motService;
