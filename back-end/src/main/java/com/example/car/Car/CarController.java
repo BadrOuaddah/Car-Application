@@ -4,6 +4,6 @@ public class CarController {
 
     private CarService carService;
     public CarController(CarService carService) {
-        this.carService = new CarService();
+        this.carService = carService;
     }
 }

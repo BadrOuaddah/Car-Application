@@ -15,7 +15,7 @@ public class CarApplication {
 		EmailService emailService = new EmailService();
 		MOTService motService = new MOTService();
 
-		CarService carService = new CarService();
+//		CarService carService = new CarService();
 
 		SpringApplication.run(CarApplication.class, args);
 	}
