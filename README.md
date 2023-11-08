@@ -1,7 +1,7 @@
 # Project Overview:
 
-+ Project name : Parking application. 
-+ Project purpose : This project is an application that focuses on how to manage car parking using CRUD operations.
++ Project name : Car application. 
++ Project purpose : This project is an application that focuses on how to manage car using CRUD operations.
 
 ## Setup to start developpement application :
 
